@@ -1,4 +1,4 @@
-# Responsif UAS - Pemrograman Dasar (Python) 🧑‍💻🐍
+# Responsi UAS - Pemrograman Dasar (Python) 🧑‍💻🐍
 
 📁 **Kategori:** UAS  
 🎓 **Mata Kuliah:** Pemrograman Dasar  
